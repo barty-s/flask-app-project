@@ -1,0 +1,40 @@
+{% extends "base.html" %} {% block content %}
+<h2>{{ page_title }}</h2>
+<p>
+  We are a group of like-minded individuals who just want to skate all day. We
+  established Girls on Wheels to come together and share out passion for
+  skateboarding. People who cycle, use scooters, roller-skate or blade are
+  welcome to join too as we cruise about the city.
+</p>
+
+{% for skater in company %}
+<div class="row featurette">
+  {% if loop.index % 2 != 0 %}
+  <div class="col-md-7">
+    <h3><a href="/about/{{skater.url}}">{{skater.name}}</a></h3>
+    <p>{{skater.description}}</p>
+  </div>
+  <div class="col-md-5">
+    <img
+      src="{{skater.image_source}}"
+      alt="skateboarding-woman"
+      class="featurette-image image-responsive"
+    />
+  </div>
+  {% else %}
+  <div class="col-md-5">
+    <img
+      src="{{skater.image_source}}"
+      alt="skateboarding-woman"
+      class="featurette-image image-responsive"
+    />
+  </div>
+  <div class="col-md-7">
+    <h3><a href="/about/{{skater.url}}">{{skater.name}}</a></h3>
+    <p>{{skater.description}}</p>
+  </div>
+  {% endif %}
+</div>
+{% if loop.index !=loop.length %}
+<hr class="featurette-divider" />
+{% endif %} {% endfor %} {% endblock %}

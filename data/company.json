@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Riley Keogh",
+    "description": "Our fearless leader! Riley has been skateboarding since she was a little girl. She has insane ollie skills but most of the time you can find her carving through the streets in search of the perfect incline to bomb!",
+    "image_source": "https://media.npr.org/assets/img/2021/04/15/rubymedina_wide-8223c6c1aad8f513ea0b9cf9cd54da97e318d55b-s1400-c100.jpeg",
+    "url": "riley"
+  },
+  {
+    "name": "Jeannie Mac",
+    "description": "Jeannie is the most organised person you'll ever meet. She loves skating and she loves talking to people who love skating. She organises our weekly meet-ups, sorting out times and locations based on your feedback and suggestions.",
+    "image_source": "https://media.istockphoto.com/id/1304931553/es/foto/joven-deportista-montando-en-el-monopat%C3%ADn-en-la-carretera.jpg?s=612x612&w=0&k=20&c=5fsj3s-Ncu5f2UgvtGVjlM0_y8iBPnuwC9ywWd45mHM=",
+    "url": "jeannie"
+  },
+  {
+    "name": "Betty McGee",
+    "description": "Betty is our social media wizard. She not takes stunning photos of all of us during our skate sessions but also amazing videos which she then share across all our socail media sites. She knows how much we all love a sick photo of ourselves skating and enjoying hanging out with new friends. ",
+    "image_source": "https://media.istockphoto.com/id/673549286/es/foto/mujer-skater-hermosa-cabalgando-sobre-su-longboard.jpg?s=170667a&w=0&k=20&c=LtJF_pMB65v-_V10VIaoZEVDnmi1Yrq9twpZwInRKHc=",
+    "url": "betty"
+  },
+  {
+    "name": "Rachel O Donnell",
+    "description": "Rachel is our is merch designer extraodinaire. Her style is so cool it's hard to describe! You just have to see her out there shredding and turning heads with her amazing outfits. She brings her creativity to the Girls on Wheels merch, designing t-shirts, hats and sweaters that are both cool and comfortable to skate in.",
+    "image_source": "https://i.pinimg.com/736x/16/03/f5/1603f564d34a6327fa05d599a5234a86.jpg",
+    "url": "rachel"
+  },
+  {
+    "name": "Georgina Weaver",
+    "description": "G is our top admin and expert contact maker. She scores amazing sponsors and partners who are all in line with our ethos. She mostly skates on a long board but every now and then turns to her trick board to mix things up.",
+    "image_source": "https://longboarding.co/wp-content/uploads/2019/07/long-for-board-kati_hay-featured.jpg",
+    "url": "georgina"
+  }
+]

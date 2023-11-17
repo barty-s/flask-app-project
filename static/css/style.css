@@ -1,0 +1,11 @@
+.col-md-5 img {
+  width: 100%;
+}
+
+.back-button {
+  font-size: 50px;
+}
+
+.back-button:hover {
+  text-decoration: none;
+}
